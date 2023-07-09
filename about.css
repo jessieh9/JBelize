@@ -1,0 +1,74 @@
+h1 {
+	font-family: Algerian;
+	color: tomato;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+	height: 120px
+}
+
+body {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	background-color: lightblue;
+
+}
+
+p {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	background-color: lightyellow;
+	border: solid;
+	border-color: rgb(100, 70, 120);
+	height: 170px;
+	width: 1000px;
+	border-width: 5px;
+}
+
+h2 {
+	font-family: impact;
+	font-size: 50px;
+	font-weight: bold;
+	text-decoration-style: wavy;
+	text-decoration: overline;
+	text-shadow: 2px 2px red;
+	text-align: left;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: gray;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 25px;
+	font-weight: bold;
+	padding: 18px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: white;
+}
+
+img {
+	margin-left: 100px;
+	border-style: dotted;
+	border-width: 10px;
+	border-color: #6699ff
+}

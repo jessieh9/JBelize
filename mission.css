@@ -1,0 +1,56 @@
+h1 {
+	background-image: url(https://media.tacdn.com/media/attractions-splice-spp-674x446/07/18/e8/52.jpg);
+	font-family: algerian;
+	color: tomato;
+	font-size: 550%;
+	font-kerning: normal;
+	text-align: center;
+	height: 120px;
+	margin: 0;
+}
+
+body {
+	font-family: Arial;
+	color: black;
+	font-size: 100%;
+	;
+	background-color: #c2f0f0;
+}
+
+p {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: gray;
+	text-align: center;
+	height: 170px;
+	width: 1000px;
+	margin-left: 200px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: gray;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 25px;
+	font-weight: bold;
+	padding: 18px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: white;
+}
